@@ -1,3 +1,11 @@
+# System
+.DC_Store
 *.gcx
+
+
+# Python
+__pycache__
 .python-version
+*.pyc
+
 
